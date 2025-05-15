@@ -11,7 +11,7 @@ import subprocess
 
 # Environment variables
 # TOKEN = os.environ.get('TOKEN')
-TOKEN = "8142870740:AAEN32TZmyZrbvR8_IXqt5NPEiKJ9Ep_f4E"
+TOKEN = ""
 LIARA_ENDPOINT_URL = "https://storage.c2.liara.space"
 LIARA_ACCESS_KEY = "3mmsl1rs77o3qm0p"
 LIARA_SECRET_KEY = "3d754b42-3238-4836-9443-e4442fd9749e"
